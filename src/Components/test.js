@@ -84,9 +84,7 @@ const Test = () => {
                 <div
                   className={`doneClick ${item.isClicked ? "clicked" : ""}`}
                   onClick={() => handleDoneClick(index)}
-                >
-                  <div className="hide"> ✔ </div>
-                </div>
+                ></div>
                 <div
                   className="deleteClick"
                   onClick={() => handleRemoveClick(index)}

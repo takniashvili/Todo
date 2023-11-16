@@ -94,7 +94,7 @@ input {
 .userText {
 }
 .userText.done {
-  color: #fd6868;
+  color: #fc9797;
 }
 .doneClick {
   border-radius: 50%;
@@ -125,7 +125,7 @@ input {
   line-height: 21.78px;
   font-weight: 500;
   font-size: 18px;
-  color: #8383ff;
+  color: #fc3f3f;
   width: 90%;
 }
 .span {
