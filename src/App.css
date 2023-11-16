@@ -101,6 +101,7 @@ input {
   border: 2px solid #20EEB0;
   width: 20px;
   height: 20px;
+  background-color: #FFFFFF;
   color: #FFFFFF;
 }
 .clicked {
